@@ -15,7 +15,7 @@ here's a picture of [my neighbor's tiny kitten](catto.jpg)
 Level Direction:
 
  
- ##Notes from initial tinkering:
+ ## Notes from initial tinkering:
  - Laser gun blasts can't destroy destructible tiles, counterintuitive but maybe a gameplay thing?
  - Ellen doesn't handle well with stairs, can be very frustrating when timing a jump off a ledge you think you should be able to jump off of
  - Spitters are cool, they punish you for not moving
