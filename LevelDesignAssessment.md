@@ -1,6 +1,6 @@
-﻿#Game Design Journal: Level Design Assessment
+﻿# Game Design Journal: Level Design Assessment
 
-##Game: Dark Souls 3
+## Game: Dark Souls 3
 
 I picked up dark souls almost two years ago so it may have taken me some time,
 but now I feel like I'm finally moving along the learning curve that's infamously steep in souls games.

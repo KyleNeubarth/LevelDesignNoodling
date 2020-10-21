@@ -1,4 +1,4 @@
-﻿#Level Design Noodling
+﻿# Level Design Noodling
 
 Little exercise in design using the Unity 2D game kit
 
@@ -20,7 +20,7 @@ while progressively harder sequences of spitters shot at you, but I found out th
 The challenge became a little less coherent, but the main goal now is to immerse the player through some relatively easy platforming and combat setpieces before introducing them to the tree temple. I hope it plays well!
 
  
- ##Notes from initial tinkering:
+ ## Notes from initial tinkering:
  - Laser gun blasts can't destroy destructible tiles, counterintuitive but maybe a gameplay thing?
  - Ellen doesn't handle well with stairs, can be very frustrating when timing a jump off a ledge you think you should be able to jump off of
  - Spitters are cool, they punish you for not moving
