@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc20c549-e888-46a8-8d1d-ae0159610769" name="Default Changelist" comment="" />
+    <list default="true" id="cc20c549-e888-46a8-8d1d-ae0159610769" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LevelDesignNoodling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LevelDesignNoodling/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LevelDesignAssessment.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -53,7 +62,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603141414408</updated>
-      <workItem from="1603141431807" duration="5456000" />
+      <workItem from="1603141431807" duration="5692000" />
+      <workItem from="1603262587258" duration="315000" />
     </task>
     <servers />
   </component>
